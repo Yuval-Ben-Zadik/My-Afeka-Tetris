@@ -1,0 +1,54 @@
+QLineEdit {
+    font-family:'Boulder';
+    font-size: 26px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 0);
+    color :rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+
+
+QPushButton {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgba(0, 0, 0, 150);
+    color: rgb(255, 255, 255);
+    border: 3px solid #ffffff;
+    border-radius: 10px;
+}
+
+
+QPushButton:hover {
+        background-color: rgba(251, 255, 0, 0.486);
+}
+
+
+
+QMessageBox {
+    background-color: rgb(255, 43, 1);
+    color: #ffffff;
+    font-family:'Boulder';
+    font-size: 20px;
+    font-weight: bold;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+}
+
+
+
+QLabel {
+    font-family:'Boulder';
+    font-weight: bold;
+    color: rgb(244, 240, 11);
+}
+
+
+
+QListWidget {
+    background-color: #00000000;
+    color: #ffffff;
+    font-size: 16px;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+}

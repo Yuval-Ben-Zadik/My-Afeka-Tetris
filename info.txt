@@ -1,0 +1,18 @@
+***
+This file must be located at the base folder of the project
+fill the fields at the bottom of the file (under the ***) (in English):
+
+Some explanations:
+> Project Number - The number from the list of available projects
+                   if you got permission to do something else leave it as 0
+				   
+> Project Type - Put one of these: Game / Tool / Simulation 
+			 
+> Project Name - A name YOU gave to your project, in English
+***
+
+ID:              315127100
+Name:            Yuval Ben Zadik 
+Project Number:  7
+Project Type:    Game
+Project Name:    TETRIS_PROJECT_315127100
