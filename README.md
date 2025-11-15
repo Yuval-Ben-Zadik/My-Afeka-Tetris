@@ -5,7 +5,7 @@ A modern, feature-rich Tetris game implementation built with Python, featuring m
 ## 📸 Game Preview
 
 ### Main Menu
-![Start Game](start-game.png)
+![Start Game](Start-game.png)
 *Main menu with player selection and game options*
 
 ### Gameplay
